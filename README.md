@@ -1,8 +1,19 @@
-## Oiii eu sou a Angela, fiz transição de carreira para a área Tech, e atualmente busco aprender Desenvolvimento Front-End e Back-End!
+## Oiii, eu sou a Angela. Sejam bem-vindas ao meu perfil! 
+<br>
+<div>
+💼 Fiz transição de carreira de Educação para Tecnologia e atualmente sou uma desenvolvedora fullstack;
+</br>
+❤️ Sou monitora de Ensino na Pretalab;
+</br>  
+💙 Sou mentora do time de mídia do SouJunior;
+</br>  
+
+</div>
+</br>  
 <div align="center">
   <a href="https://github.com/alopo2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alopo2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alopo2&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alopo2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alopo2&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ## Hardskills <br>
@@ -17,6 +28,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
+
+## Quero aprender: <br>
+  
+  
 
 ## Softskills
 
