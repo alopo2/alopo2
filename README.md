@@ -3,9 +3,9 @@
 <div>
 💼 Fiz transição de carreira de Educação para Tecnologia e atualmente sou uma desenvolvedora fullstack;
 </br>
-❤️ Sou monitora de Ensino na Pretalab;
+❤️ Sou professora na Pretalab;
 </br>  
-💙 Sou mentora do time de mídia do SouJunior;
+💙 Sou Software Engineer Intern no JusBrasil;
 </br>  
 
 </div>
