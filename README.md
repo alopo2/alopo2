@@ -5,7 +5,7 @@
 </br>
 ❤️ Sou professora na Pretalab;
 </br>  
-💙 Sou Software Engineer Intern no JusBrasil;
+💙 Sou Software Engineer Junior no JusBrasil;
 </br>  
 
 </div>
