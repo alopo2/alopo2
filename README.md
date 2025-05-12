@@ -9,7 +9,7 @@
 </br>
 ❤️ Minha missão de vida é possibilitar o acesso de mais mulheres à tecnologia, e com isso, o que mais gosto de fazer é ENSINAR!;
 </br>  
-💙 Sou Software Engineer Junior no JusBrasil, e Squad Leader no time de Jurisprudência (cuidando de um arsenal de +300 crawlers em prod);
+💚 Sou Software Engineer Junior no JusBrasil, e Squad Leader no time de Jurisprudência (cuidando de um arsenal de +300 crawlers em prod);
 </br>  
 
 </div>
