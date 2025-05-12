@@ -1,11 +1,15 @@
 ## Oiii, eu sou a Angela. Sejam bem-vindas ao meu perfil! 
 <br>
 <div>
-💼 Fiz transição de carreira de Educação para Tecnologia e atualmente sou uma desenvolvedora fullstack;
+💼 Fiz transição de carreira de Educação para Tecnologia e atualmente sou uma desenvolvedora fullstack em formação;
 </br>
-❤️ Minha profissão do coração é: professora;
+👩‍💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica;
+</br>
+👩‍🍼 Eu sou mãe e isso preenche meu coração todos os dias. 
+</br>
+❤️ Minha missão de vida é possibilitar o acesso de mais mulheres à tecnologia, e com isso, o que mais gosto de fazer é ENSINAR!;
 </br>  
-💙 Sou Software Engineer Junior no JusBrasil;
+💙 Sou Software Engineer Junior no JusBrasil, e Squad Leader no time de Jurisprudência (cuidando de um arsenal de +300 crawlers em prod);
 </br>  
 
 </div>
