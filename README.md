@@ -3,7 +3,7 @@
 <div>
 💼 Fiz transição de carreira de Educação para Tecnologia e atualmente sou uma desenvolvedora fullstack;
 </br>
-❤️ Sou professora na Pretalab;
+❤️ Minha profissão do coração é: professora;
 </br>  
 💙 Sou Software Engineer Junior no JusBrasil;
 </br>  
